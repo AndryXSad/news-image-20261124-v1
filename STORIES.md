@@ -40,18 +40,18 @@ Nothing here is a story of 20-22 November passed off as the 24th.
 
 ## Day in figures (6)
 
-- 258 — Democratic House seats, at least; biggest since 1992.
-- 11 — killed in the Russian strike on Dymer flats.
-- 24 — killed in the Banten candy factory fire.
-- 7 — naval drones Ukraine says sank the Merkury.
-- 14 — countries backing the ICJ genocide ruling on the Rohingya.
-- $2.5M — prize fund for the World Chess Championship.
+- 258 — Democratic House seats (figure label on the page).
+- 11 — killed in the Dymer strike.
+- 24 — killed in the Banten fire.
+- 7 — drones that sank the Merkury.
+- 14 — states back the ICJ ruling.
+- $2.5M — World Chess prize fund.
 
 ## Around the world (7)
 
 - EUROPE — EU proposes a 22nd sanctions package on Russia.
-- MIDDLE EAST — Settler arson hits five West Bank villages; Eisenkot
-  calls it "Jewish terrorism".
+- MIDDLE EAST — Settler arson hits five West Bank villages. (Eisenkot
+  called it "Jewish terrorism".)
 - ASIA — ICJ: Myanmar committed genocide against the Rohingya.
 - AFRICA — Drones hit Khartoum and a UN building.
 - NORTH AMERICA — Waymo pulls driverless taxis from all US freeways.
@@ -60,9 +60,9 @@ Nothing here is a story of 20-22 November passed off as the 24th.
 
 ## Grid (24, datelines unique)
 
-1. BERLIN — NATO vows space defence after the nuclear-satellite report.
-2. BRUSSELS — NATO to meet after Russian missiles confirmed in Poland.
-3. WARSAW — Prosecutors confirm three Russian Kh-101 missiles hit Poland.
+1. BERLIN — NATO vows space defence after satellite report.
+2. BRUSSELS — NATO to meet over Russian missiles in Poland.
+3. WARSAW — Prosecutors: three Russian missiles hit Poland.
 4. TALLINN — Moscow threatens Estonia with "open war".
 5. ABU DHABI — Peace talks end; Medinsky holds a maximalist line.
 6. TEL AVIV — Netanyahu-Eisenkot coalition talks end without a deal.
@@ -73,16 +73,16 @@ Nothing here is a story of 20-22 November passed off as the 24th.
 11. WELLINGTON — India-New Zealand first Test ends in a draw.
 12. TURIN — Alcaraz beats Zverev for a maiden ATP Finals crown.
 13. LONDON — UK confirmed as host of the 2035 Women's World Cup.
-14. MANCHESTER — Thousands flee a concert after a substance is released.
-15. DES MOINES — Trump orders the Army to pause lead azide detonation.
+14. MANCHESTER — Thousands flee concert after substance released.
+15. DES MOINES — Trump orders Army to pause lead azide detonation.
 16. SEATTLE — Father and daughter held by ICE at the airport.
 17. DUBAI — Tanker incident involving military forces in the Gulf of Oman.
-18. DAKAR — Migrant boat capsizes off Senegal; four dead, dozens missing.
-19. STOCKHOLM — Swedish Gripens join the NATO scramble over Poland.
+18. DAKAR — Migrant boat capsizes off Senegal; four dead.
+19. STOCKHOLM — Swedish Gripens join NATO scramble over Poland.
 20. TRIPOLI — Libya's east seeks a UN probe into the Benghazi attacks.
 21. KYIV — Security Council meets on Russia's winter attacks on the grid.
 22. WASHINGTON — Democrats plan 12 debates for the 2028 primary.
-23. JERUSALEM — Israel seeks to jail a student activist without trial.
+23. JERUSALEM — Israel seeks to jail student activist without trial.
 24. JAKARTA — Indonesia probes the factory fire; 34 still missing.
 
 ## Also today (ticker, 3)
